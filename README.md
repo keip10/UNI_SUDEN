@@ -1,5 +1,5 @@
 # UNI_SUDEN
-
+es un kit con un esqueleto modular en 3D que permite que el computador entre en cosas pequeñas como una cajita de lentes o en un a caja sea de cuero o deplastico del tamaño de un computador normal, el proposito que tiene es ser un apoyo mas para la participacion femenina en carreras STEM con el kit podran hacer una consola retro, un tamagochi o un computador como antes mencionado 
 ## Conexiones Hardware (Arduino Uno)
 
 | Componente | Pin del Componente | Pin en Arduino Uno |
