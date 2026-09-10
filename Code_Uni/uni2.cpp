@@ -59,7 +59,7 @@ void menuPrincipal() {
   display.setTextSize(1);
   display.setTextColor(SH110X_WHITE);
   display.setCursor(10, 0);
-  display.println(F("== CYBER-GAMES =="));
+  display.println(F(" CYBER-UNI "));
   display.println(F("------------------"));
   display.setCursor(0, 20);
   display.println(F("[1] Test Reflejos"));

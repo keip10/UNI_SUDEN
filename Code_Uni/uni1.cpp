@@ -46,12 +46,12 @@ void menuPrincipal() {
   display.setTextSize(1);
   display.setTextColor(SH110X_WHITE);
   display.setCursor(10, 0);
-  display.println(F("== CYBER-PET & GAMES =="));
+  display.println(F(" CYBER-UNI & GAMES "));
   display.println(F("-----------------------"));
   display.setCursor(0, 18);
   display.println(F("[1] Test Reflejos"));
   display.println(F("[2] Esquivar Paredes"));
-  display.println(F("[3] Mascotita / Ojos"));
+  display.println(F("[3] Ojos"));
   display.setCursor(0, 52);
   display.println(F("Elige una opcion..."));
   display.display();
